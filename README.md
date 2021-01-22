@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a student in Computer Engineer who loves to learn new things, is determined, hardworking and is very keen on technology.
+I am a student in Computer Engineer who loves to learn new things, is determined, hardworking and is very keen on technology. 
+I have been using Fedora for 1 years ( using Linux for 2 years ) . I'm mostly interested in python. I have developed small-scale projects in Python languages. I love what I do, and it makes me happy. 
 
 ![Kader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kadermiyanyedi&show_icons=true)
 
