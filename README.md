@@ -9,7 +9,7 @@ I have been using Fedora for 2 years. I'm mostly interested in python. I have de
 ### Learning | Using 🧠
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://docs.fedoraproject.org/en-US/docs/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://www.django-rest-framework.org/" target="_blank"><img height="50" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"></a></code>
