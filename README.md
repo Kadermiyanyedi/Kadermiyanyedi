@@ -8,17 +8,47 @@ I have been using Fedora for 2 years. I'm mostly interested in python. I have de
 
 ### Learning | Using 🧠
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://docs.fedoraproject.org/en-US/docs/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></a></code>
-<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-<code><a href="https://www.django-rest-framework.org/" target="_blank"><img height="50" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"></a></code>
-<code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code> 
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
-<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
-<code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<h3 align="left">Backend Stack</h3>
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img>
+    <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img>
+    <img alt="Django Rest Framework" src="https://img.shields.io/badge/Django%20Rest%20Framework%20-%23404d59.svg?logo=djangorestframework&logoColor=white"></img>
+    <a href="#"><img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-00979D?logo=postgresql&logoColor=black"></a>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>
+</p>
+
+<h3 align="left">Frontend Stack</h3>
+<p>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%2320232a.svg?logo=angular&logoColor=red"></img>
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></img>
+   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
+   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img>
+</p>
+
+<h3 align="left">Framework & Libraries</h3>
+<p>
+    <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img>
+    <img alt="Django Rest Framework" src="https://img.shields.io/badge/Django%20Rest%20Framework%20-%23404d59.svg?logo=djangorestframework&logoColor=white"></img>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%2320232a.svg?logo=angular&logoColor=red"></img>
+</p>
+
+
+<h3 align="left">Databases</h3>
+<p>
+    <a href="#"><img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-00979D?logo=postgresql&logoColor=black"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
+
+<h3 align="left">Software and tools</h3>
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a>
+</p>
 
 ## Contact Me 📫
 
