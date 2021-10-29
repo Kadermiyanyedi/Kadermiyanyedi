@@ -8,13 +8,13 @@ I have been using Fedora for 2 years. I'm mostly interested in python. I have de
 
 ### Learning | Using 🧠
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></a></code>
 <code><a href="https://docs.fedoraproject.org/en-US/docs/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://www.django-rest-framework.org/" target="_blank"><img height="50" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"></a></code>
 <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code> 
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code> 
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
 <code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
@@ -24,3 +24,4 @@ I have been using Fedora for 2 years. I'm mostly interested in python. I have de
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Kadermiyanyedi&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FKadermiyanyedi)](https://www.linkedin.com/in/kadermiyanyedi/)
 
+ ![Snake animation](https://svgshare.com/i/_CU.svg)
