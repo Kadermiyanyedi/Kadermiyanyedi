@@ -43,6 +43,7 @@ I have been using Fedora for 2 years. I'm mostly interested in python. I have de
 
 <h3 align="left">Software and tools</h3>
 <p>
+    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-2391E6.svg?logo=fedora&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
