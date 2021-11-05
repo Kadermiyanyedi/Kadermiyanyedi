@@ -54,8 +54,4 @@ I have been using Fedora for 3 years. I'm mostly interested in python. I have de
 
 ![Kader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kadermiyanyedi&show_icons=true)
 
-## Contact Me 📫
-
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Kadermiyanyedi&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FKadermiyanyedi)](https://www.linkedin.com/in/kadermiyanyedi/)
-
  ![Snake animation](https://svgshare.com/i/_CU.svg)
