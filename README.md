@@ -3,7 +3,7 @@
 I am a student in Computer Engineer who loves to learn new things, is determined, hardworking and is very keen on technology. 
 I have been using Fedora for 3 years. I'm mostly interested in Python language. I have developed small-scale projects in Python languages. I love what I do, and it makes me happy. 
 
-- 🔭 I’m currently working on [Radity](https://radity.com/en/)
+- 🔭 I’m currently working as a Python/Django intern at [Radity](https://radity.com/en/).
 
 - 📝 I regularly write articles on ( Turkish ) [https://kadermiyanyedi.medium.com/](https://kadermiyanyedi.medium.com/)
 
