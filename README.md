@@ -1,4 +1,4 @@
-<img alt="Hello" src="cat.jpg"></img>
+<img alt="Hello" src="cat.jpg" style="display: block; margin: 0 auto;"></img>
 
 ### Hi there 👋
 
