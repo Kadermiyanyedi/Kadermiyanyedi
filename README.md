@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a student in Computer Engineer who loves to learn new things, is determined, hardworking and is very keen on technology. 
+I am a senior student in Computer Engineer who loves to learn new things, is determined, hardworking and is very keen on technology. 
 I have been using Fedora for 3 years. I'm mostly interested in Python language. I have developed small-scale projects in Python languages. I love what I do, and it makes me happy. 
 
-- 🔭 I’m currently working as a Python/Django intern at [Radity](https://radity.com/en/).
+- 🔭 I’m currently working as a Python/Django Developer at [Radity](https://radity.com/en/).
 
 - 📝 I regularly write articles on ( Turkish ) [https://kadermiyanyedi.medium.com/](https://kadermiyanyedi.medium.com/)
 
@@ -51,7 +51,5 @@ I have been using Fedora for 3 years. I'm mostly interested in Python language. 
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a>
 </p>
-
-![Kader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kadermiyanyedi&show_icons=true)
 
  ![Snake animation](https://svgshare.com/i/_CU.svg)
