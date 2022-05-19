@@ -1,4 +1,4 @@
-img alt="Hello" src="cat.jpg"></img>
+<img alt="Hello" src="cat.jpg"></img>
 
 ### Hi there 👋
 
