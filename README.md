@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a senior student in Computer Engineer who loves to learn new things, is determined, hardworking and is very keen on technology. 
+I graduated from Sakarya University. I loves to learn new things, is determined, hardworking and is very keen on technology. 
 I have been using Fedora for 3 years. I'm mostly interested in Python language. I have developed small-scale projects in Python languages. I love what I do, and it makes me happy. 
 
 - 🔭 I’m currently working as a Python/Django Developer at [Radity](https://radity.com/en/).
