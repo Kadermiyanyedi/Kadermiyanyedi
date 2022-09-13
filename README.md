@@ -2,8 +2,11 @@
 
 ### Hi there 👋
 
-I graduated from Sakarya University. I loves to learn new things, is determined, hardworking and is very keen on technology. 
-I have been using Fedora for 3 years. I'm mostly interested in Python language. I have developed small-scale projects in Python languages. I love what I do, and it makes me happy. 
+I'm a Backend Developer who likes to develop software. As someone who has devoted his student years to this work. I have been using Fedora for 3 years and I have 2 years of professional experience in Python/Django. 
+I am working to become an expert in Backend Developer. My motto is "Start to learn, repeat to specialize".
+
+I'm a hard-working team member and have strong communication skills. Except for software, I like puzzles and traveling. I love what I do, and it makes me happy.
+
 
 - 🔭 I’m currently working as a Python/Django Developer at [Radity](https://radity.com/en/).
 
