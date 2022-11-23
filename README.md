@@ -8,7 +8,7 @@ I am working to become an expert in Backend Developer. My motto is "Start to lea
 I'm a hard-working team member and have strong communication skills. Except for software, I like puzzles and traveling. I love what I do, and it makes me happy.
 
 
-- 🔭 I’m currently working as a Python/Django Developer at [Radity](https://radity.com/en/).
+- 🔭 I’m currently working as a Python/Django Developer at [BRANDEFENSE](https://brandefense.io/).
 
 - 📝 I regularly write articles on ( Turkish ) [https://kadermiyanyedi.medium.com/](https://kadermiyanyedi.medium.com/)
 
