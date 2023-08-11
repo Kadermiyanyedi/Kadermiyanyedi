@@ -2,15 +2,14 @@
 
 ### Hi there 👋
 
-I'm a Backend Developer who likes to develop software. As someone who has devoted his student years to this work. I have been using Fedora for 3 years and I have 2 years of professional experience in Python/Django. 
-I am working to become an expert in Backend Developer. My motto is "Start to learn, repeat to specialize".
+I'm a Backend Developer who likes to develop software. As someone who has devoted his student years to this work. I am working to become an expert in Backend Developer. My motto is "Start to learn, repeat to specialize".
 
 I'm a hard-working team member and have strong communication skills. Except for software, I like puzzles and traveling. I love what I do, and it makes me happy.
 
 
-- 🔭 I’m currently working as a Python/Django Developer at [BRANDEFENSE](https://brandefense.io/).
+- 🔭 I’m currently working as a Backend Developer at [BRANDEFENSE](https://brandefense.io/).
 
-- 📝 I regularly write articles on ( Turkish ) [https://kadermiyanyedi.medium.com/](https://kadermiyanyedi.medium.com/)
+- 📝 I regularly write articles on ( Turkish ) Medium.
 
 - 💬 Ask me about **Backend Development**
 
@@ -57,4 +56,11 @@ I'm a hard-working team member and have strong communication skills. Except for 
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a>
 </p>
 
- ![Snake animation](https://svgshare.com/i/_CU.svg)
+## Useful links
+If you want to stay in touch with me, these links can be useful.
+ 
+- [LinkedIn](https://www.linkedin.com/in/kadermiyanyedi)
+- [Medium](https://kadermiyanyedi.medium.com/)
+- [Fedora Magazine](https://fedoramagazine.org/author/moonkat)
+- [Personal Fedora wiki page](https://fedoraproject.org/wiki/User:moonkat)
+- [Fedora Contribution Badges](https://badges.fedoraproject.org/user/moonkat)
