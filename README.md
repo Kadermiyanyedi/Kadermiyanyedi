@@ -64,3 +64,7 @@ If you want to stay in touch with me, these links can be useful.
 - [Fedora Magazine](https://fedoramagazine.org/author/moonkat)
 - [Personal Fedora wiki page](https://fedoraproject.org/wiki/User:moonkat)
 - [Fedora Contribution Badges](https://badges.fedoraproject.org/user/moonkat)
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=kadermiyanyedi&show_icons=true&theme=dark" alt="Kader's GitHub stats"></img>
+</p>
