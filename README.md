@@ -1,6 +1,6 @@
-<img alt="Hello" src="cat.jpg" style="display: block; margin: 0 auto;"></img>
-
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/kadermiyanyedi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Kader;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</p>
 
 I'm a Backend Developer who likes to develop software. As someone who has devoted his student years to this work. I am working to become an expert in Backend Developer. My motto is "Start to learn, repeat to specialize".
 
