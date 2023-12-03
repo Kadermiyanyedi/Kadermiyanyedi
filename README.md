@@ -60,6 +60,7 @@ I'm a hard-working team member and have strong communication skills. Except for 
 If you want to stay in touch with me, these links can be useful.
  
 - [LinkedIn](https://www.linkedin.com/in/kadermiyanyedi)
+- [Twitter](https://x.com/Laekhesis)
 - [Medium](https://kadermiyanyedi.medium.com/)
 - [Fedora Magazine](https://fedoramagazine.org/author/moonkat)
 - [Personal Fedora wiki page](https://fedoraproject.org/wiki/User:moonkat)
