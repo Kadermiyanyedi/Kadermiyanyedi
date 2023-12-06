@@ -2,9 +2,9 @@
 <a href="https://github.com/kadermiyanyedi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Kader;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 
-I'm a Backend Developer who likes to develop software. As someone who has devoted his student years to this work. I am working to become an expert in Backend Developer. My motto is "Start to learn, repeat to specialize".
+Welcome! I am a dedicated Backend Developer with a profound passion for software development. As someone who has devoted his student years to this work. I am working to become an expert in Backend Developer. My motto is "Start to learn, repeat to specialize".
 
-I'm a hard-working team member and have strong communication skills. Except for software, I like puzzles and traveling. I love what I do, and it makes me happy.
+I pride myself on being a diligent team player with robust communication skills. Beyond the realm of software, I find joy in unraveling puzzles and exploring new destinations through travel. The satisfaction derived from my work is not just a profession; it's a source of genuine happiness.
 
 
 - 🔭 I’m currently working as a Backend Developer at [BRANDEFENSE](https://brandefense.io/).
