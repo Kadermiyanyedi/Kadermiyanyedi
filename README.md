@@ -22,22 +22,6 @@ I pride myself on being a diligent team player with robust communication skills.
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>
 </p>
 
-<h3 align="left">Frontend Stack</h3>
-<p>
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%2320232a.svg?logo=angular&logoColor=red"></img>
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></img>
-   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
-</p>
-
-<h3 align="left">Framework & Libraries</h3>
-<p>
-    <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img>
-    <img alt="Django Rest Framework" src="https://img.shields.io/badge/Django%20Rest%20Framework%20-%23404d59.svg?logo=djangorestframework&logoColor=white"></img>
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%2320232a.svg?logo=angular&logoColor=red"></img>
-</p>
-
-
 <h3 align="left">Databases</h3>
 <p>
     <a href="#"><img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-00979D?logo=postgresql&logoColor=black"></a>
