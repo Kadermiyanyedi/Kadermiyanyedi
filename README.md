@@ -4,7 +4,7 @@
 
 Welcome! I am a dedicated Backend Developer with a profound passion for software development. As someone who has devoted his student years to this work. I am working to become an expert in Backend Developer. My motto is "Start to learn, repeat to specialize".
 
-I pride myself on being a diligent team player with robust communication skills. Beyond the realm of software, I find joy in unraveling puzzles and exploring new destinations through travel. The satisfaction derived from my work is not just a profession; it's a source of genuine happiness.
+I pride myself on being a diligent team player with robust communication skills. The satisfaction derived from my work is not just a profession; it's a source of genuine happiness.
 
 
 - 🔭 I’m currently working as a Backend Developer at [BRANDEFENSE](https://brandefense.io/).
