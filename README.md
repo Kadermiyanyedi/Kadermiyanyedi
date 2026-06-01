@@ -39,6 +39,8 @@ Most of my writing lives on [**Medium**](https://kadermiyanyedi.medium.com), whe
 ### 🌍 Open source & community
 
 **Contributing**
+- 🇹🇷 **PyLadies Istanbul Co-organizer**, helping build and support the local Python community through events, workshops, and mentorship.
+- 🔥 **PyTorch Docathon 3rd place winner** contributing improvements to PyTorch documentation and developer resources.
 - 🐧 **Fedora** I run it as my daily driver and help with kernel testing. I also used to write for **Fedora Magazine**.
 - 🚀 **FastAPI** translation tooling and LLM prompt support
 
